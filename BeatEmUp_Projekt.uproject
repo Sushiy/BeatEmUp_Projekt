@@ -2,5 +2,15 @@
 	"FileVersion": 3,
 	"EngineAssociation": "4.7",
 	"Category": "",
-	"Description": ""
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "BeatEmUp_Projekt",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"TargetPlatforms": [
+		"WindowsNoEditor"
+	]
 }
